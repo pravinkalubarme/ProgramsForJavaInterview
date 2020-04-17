@@ -1,6 +1,6 @@
 package Demo.Pattern;
 
-public class ToFindNoInSeries {
+public class ToFindSpecificNumberInSeries {
 
 	public static void main(String[] args) {
 
