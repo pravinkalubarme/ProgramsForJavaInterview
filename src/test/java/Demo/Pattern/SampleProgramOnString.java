@@ -2,9 +2,9 @@ package Demo.Pattern;
 
 public class SampleProgramOnString {
 	public static void main(String[] args) {
-		//toReverseTheString("Pravin Kalubarme");
-		//toReverseTheNo();
-		//toReverseTheNoUsingAnotherMethod();
+		toReverseTheString("Pravin Kalubarme");
+		toReverseTheNo();
+		toReverseTheNoUsingAnotherMethod();
 		toSeperateNoDigitsAndSpecialChar("#pravin kalubarme11#50!@gmail.com");
 	}
 
