@@ -9,10 +9,7 @@ public class OOPSCaseStudy {
 		t.m(new Object());
 		t.m("Pravin");
 		t.m(new StringBuffer("Prain"));
-		t.m();
-		
-		
-		
+		t.m();	
 	}
 
 	public static void m(int a, float f) {
