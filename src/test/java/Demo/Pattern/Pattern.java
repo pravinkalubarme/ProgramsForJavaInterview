@@ -7,9 +7,11 @@ public class Pattern {
 		pattern1();
 		pattern2();
 		pattern3();
-	
-	
+		pattern4();
+		pattern5();
+		pattern6();
 	}
+	
 	public static void pattern1()
 	{
 		for (int i = 1; i <=3; i++) {
